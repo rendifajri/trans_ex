@@ -1,0 +1,30 @@
+Now
+Next
+	Transaksi
+		Stok Opname, insert biaya, pendapatan
+		Purchase, Sales qty*barcode
+	Posting
+	Laba Rugi
+	Item Unit -> register barcode
+	
+
+GqSZjSbtdzpyl27VFIv7fBV18VWRoDir
+$2y$13$yCAF7ZG8jGIvtrwV/qGBGeGxy6YjwdugaPhX70QW91ylubXcR4CY
+
+KA Mix Seduh
+ 1 KA Mix
+2500
+ 1000 1000 modal
+ 1250 1250 KA Mix
+
+
+KA Susu
+ 2 KA Mini
+ 1 Indomilk Sachet
+
+4000
+ 1000 1000 modal
+ 1000 1000 KA Mini
+ 1250 1250 Indomilk Sachet
+LABA
+ 750
